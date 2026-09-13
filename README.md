@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Kelly 👋
 
-<!--
-**kellybuilds-dev/kellybuilds-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | Learning Python | AI & Technology Enthusiast
 
-Here are some ideas to get you started:
+I'm currently learning software engineering from the ground up and building practical projects as I grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Learning Python and software development  
+🤖 Interested in AI and automation  
+🚀 Building projects and improving every day  
+📚 Learning through practice and real projects  
+
+## 🛠️ Currently Learning
+
+- Python
+- Git & GitHub
+- Programming fundamentals
+- APIs
+- Automation
+- AI tools and technologies
+
+## 📂 My Projects
+
+### 🐍 Python Beginner Projects
+A collection of beginner Python projects I'm building while learning software engineering.
+
+- Calculator
+- Number Guessing Game
+- To-Do List
+- More projects coming soon...
+
+## 🎯 My Goal
+
+My goal is to become a professional software engineer and build useful technology that can make a real difference.
+
+> Learning today. Building tomorrow. 🚀
+
+## 📈 My Journey
+
+This GitHub profile documents my journey from beginner to professional software engineer.
+
+Thanks for visiting! 👋
